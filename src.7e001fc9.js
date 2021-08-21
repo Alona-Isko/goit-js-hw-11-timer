@@ -5,4 +5,4 @@ class t{constructor({selector:t,targetDate:e}){this.selector=document.querySelec
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/common.css"),require("./js/timer.js");
 },{"./css/common.css":"en75","./js/timer.js":"yCUT"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-timer/src.e2c37ef5.js.map
+//# sourceMappingURL=/goit-js-hw-11-timer/src.7e001fc9.js.map
